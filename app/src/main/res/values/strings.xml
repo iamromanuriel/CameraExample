@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">UseCamara</string>
+
+    <string name="take_photo">Take Photo</string>
+    <string name="Start_capture">Start Capture</string>
+    <string name="Stop_capture">Stop Capture</string>
 </resources>
